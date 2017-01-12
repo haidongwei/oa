@@ -17,3 +17,4 @@ dev update2
 weihd  dev
 iupdate3 weihd
 
+test ---> admin
